@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="step08_상속/src/|step04_메서드/src/|step07_생성자/src/|Workshop01/src/|step03_제어문/src/|step09_스테틱/src/|step10_다형성/src/|step06_객체/src/|step05_배열/src/|step11_컬렉션/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="step03_제어문/src"/>
+	<classpathentry kind="src" path="step04_메서드/src"/>
+	<classpathentry kind="src" path="step05_배열/src"/>
+	<classpathentry kind="src" path="step06_객체/src"/>
+	<classpathentry kind="src" path="step07_생성자/src"/>
+	<classpathentry kind="src" path="step08_상속/src"/>
+	<classpathentry kind="src" path="step09_스테틱/src"/>
+	<classpathentry kind="src" path="step10_다형성/src"/>
+	<classpathentry kind="src" path="step11_컬렉션/src"/>
+	<classpathentry kind="src" path="Workshop01/src"/>
+	<classpathentry kind="output" path="Workshop01/bin"/>
+</classpath>
